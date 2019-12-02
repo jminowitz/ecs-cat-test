@@ -17,7 +17,7 @@
 # 3. Store your ECS task definition as a JSON file in your repository.
 #    The format should follow the output of `aws ecs register-task-definition --generate-cli-skeleton`.
 env:
-  
+  DEV
   
   
   
